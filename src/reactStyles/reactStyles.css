@@ -1,0 +1,40 @@
+
+
+.bookingArea{
+    
+    padding:0;
+    margin:0;
+}
+
+.hours{
+    
+    margin:10% 0;
+    padding:0;
+}
+
+.bookingArea input{
+    float:right;
+}
+
+.bookTitle{
+    text-align: center;
+
+    margin:5% 0;
+    padding:0;
+}
+.priceHeader{
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 50%;
+    
+    
+
+}
+.finalPrice{
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 50%;
+    
+}

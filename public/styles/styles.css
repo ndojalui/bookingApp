@@ -1,0 +1,47 @@
+body{
+    background: rgb(205, 220, 237) !important;
+    
+    
+}
+header {
+    
+    background-color: rgb(226, 150, 198);
+    
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 60%;
+    padding: 10px;
+    box-shadow: -10px 10px rgb(153, 122, 184);
+    
+}
+
+.bookingBox{
+    margin: 10%;
+    padding: 10px;
+    background-color: rgb(194, 134, 202);
+    color:white;
+    border-radius: 5px;
+    
+}
+
+.bookTitle{
+    
+    margin-left: 15%;
+}
+#root{
+    margin: 0;
+    
+    padding:0;
+}
+
+.mainBox{
+    background-color: rgb(255, 255, 255);
+    margin:0 5%;
+    padding: 0;
+    color: white;
+    box-shadow: -10px 10px grey;
+
+}
+p1{
+    font-size:larger;
+}
