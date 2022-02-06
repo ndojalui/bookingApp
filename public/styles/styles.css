@@ -1,24 +1,24 @@
 body{
-    background: rgb(205, 220, 237) !important;
+    background: rgb(209,238,241) !important;
     
     
 }
 header {
     
-    background-color: rgb(226, 150, 198);
+    background-color: rgb(85,209,219);
     
     margin-top: 10%;
     margin-left: 5%;
     margin-right: 60%;
     padding: 10px;
-    box-shadow: -10px 10px rgb(153, 122, 184);
+    box-shadow: -10px 10px rgb(209,238,241);
     
 }
 
 .bookingBox{
     margin: 10%;
     padding: 10px;
-    background-color: rgb(194, 134, 202);
+    background-color: rgb(75, 187, 195);
     color:white;
     border-radius: 5px;
     
